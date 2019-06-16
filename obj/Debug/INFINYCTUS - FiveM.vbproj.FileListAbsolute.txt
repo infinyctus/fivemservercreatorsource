@@ -1,0 +1,35 @@
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\bin\Debug\INFINYCTUS - FiveM.exe.config
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\bin\Debug\INFINYCTUS - FiveM.exe
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\bin\Debug\INFINYCTUS - FiveM.pdb
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\bin\Debug\INFINYCTUS - FiveM.xml
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\bin\Debug\MySql.Data.dll
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\bin\Debug\Google.Protobuf.dll
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\obj\Debug\INFINYCTUS___FiveM.DeleteServer.resources
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\obj\Debug\INFINYCTUS___FiveM.Form1.resources
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\obj\Debug\INFINYCTUS___FiveM.Resources.resources
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\obj\Debug\INFINYCTUS___FiveM.ReplaceServer.resources
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\obj\Debug\INFINYCTUS - FiveM.vbproj.GenerateResource.cache
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\obj\Debug\INFINYCTUS - FiveM.vbproj.CoreCompileInputs.cache
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\obj\Debug\INFINYCTUS - FiveM.vbproj.CopyComplete
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\obj\Debug\INFINYCTUS - FiveM.exe
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\obj\Debug\INFINYCTUS - FiveM.xml
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\obj\Debug\INFINYCTUS - FiveM.pdb
+D:\Projetos\INFINYCTUS - FiveM\bin\Debug\INFINYCTUS - FiveM.exe.config
+D:\Projetos\INFINYCTUS - FiveM\bin\Debug\INFINYCTUS - FiveM.exe
+D:\Projetos\INFINYCTUS - FiveM\bin\Debug\INFINYCTUS - FiveM.pdb
+D:\Projetos\INFINYCTUS - FiveM\bin\Debug\INFINYCTUS - FiveM.xml
+D:\Projetos\INFINYCTUS - FiveM\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Projetos\INFINYCTUS - FiveM\bin\Debug\MySql.Data.dll
+D:\Projetos\INFINYCTUS - FiveM\bin\Debug\Google.Protobuf.dll
+D:\Projetos\INFINYCTUS - FiveM\obj\Debug\INFINYCTUS - FiveM.vbprojAssemblyReference.cache
+D:\Projetos\INFINYCTUS - FiveM\obj\Debug\INFINYCTUS___FiveM.DeleteServer.resources
+D:\Projetos\INFINYCTUS - FiveM\obj\Debug\INFINYCTUS___FiveM.Form1.resources
+D:\Projetos\INFINYCTUS - FiveM\obj\Debug\INFINYCTUS___FiveM.Resources.resources
+D:\Projetos\INFINYCTUS - FiveM\obj\Debug\INFINYCTUS___FiveM.ReplaceServer.resources
+D:\Projetos\INFINYCTUS - FiveM\obj\Debug\INFINYCTUS - FiveM.vbproj.GenerateResource.cache
+D:\Projetos\INFINYCTUS - FiveM\obj\Debug\INFINYCTUS - FiveM.vbproj.CoreCompileInputs.cache
+D:\Projetos\INFINYCTUS - FiveM\obj\Debug\INFINYCTUS - FiveM.vbproj.CopyComplete
+D:\Projetos\INFINYCTUS - FiveM\obj\Debug\INFINYCTUS - FiveM.exe
+D:\Projetos\INFINYCTUS - FiveM\obj\Debug\INFINYCTUS - FiveM.xml
+D:\Projetos\INFINYCTUS - FiveM\obj\Debug\INFINYCTUS - FiveM.pdb

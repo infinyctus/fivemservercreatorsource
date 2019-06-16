@@ -1,0 +1,19 @@
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\obj\Release\INFINYCTUS___FiveM.DeleteServer.resources
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\obj\Release\INFINYCTUS___FiveM.FiveM__Offline_Mode_.resources
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\obj\Release\INFINYCTUS___FiveM.Form1.resources
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\obj\Release\INFINYCTUS___FiveM.Resources.resources
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\obj\Release\INFINYCTUS___FiveM.ReplaceServer.resources
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\obj\Release\INFINYCTUS - FiveM.vbproj.GenerateResource.cache
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\obj\Release\INFINYCTUS - FiveM.vbproj.CoreCompileInputs.cache
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\bin\Release\INFINYCTUS - FiveM.exe.config
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\bin\Release\INFINYCTUS - FiveM.exe
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\bin\Release\INFINYCTUS - FiveM.pdb
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\bin\Release\INFINYCTUS - FiveM.xml
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\bin\Release\MaterialSkin.dll
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\bin\Release\MySql.Data.dll
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\bin\Release\Google.Protobuf.dll
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\obj\Release\INFINYCTUS - FiveM.vbproj.CopyComplete
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\obj\Release\INFINYCTUS - FiveM.exe
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\obj\Release\INFINYCTUS - FiveM.xml
+C:\Users\Ruben\source\repos\INFINYCTUS - FiveM\INFINYCTUS - FiveM\obj\Release\INFINYCTUS - FiveM.pdb
